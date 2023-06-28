@@ -1,5 +1,4 @@
-#!/bin/bashecho 
-"ALX School is so cool!"
 
-clear
+#!/bin/bash
+echo "ALX School"
 
